@@ -1,4 +1,7 @@
 # carla-APF-control
+
+<img src="photo/overtake.png" width="70%">
+
 This project aims to utilize the APF (Artificial Potential Field) model for autonomous vehicle control in carla simulation.
 
 Implemented a gradient-force-based APF control method for lane change car control.
