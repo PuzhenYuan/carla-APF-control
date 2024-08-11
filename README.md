@@ -1,6 +1,6 @@
 # carla-APF-control
 
-<img src="photo/overtake.png" width="70%">
+<img src="photo/overtake.png" width="100%">
 
 This project aims to utilize the APF (Artificial Potential Field) model for autonomous vehicle control in carla simulation.
 
